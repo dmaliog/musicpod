@@ -305,4 +305,9 @@
     "podcastName": "Название подкаста",
     "url": "URL",
     "loadFromFileOptional": "Загрузить из файла (необязательно)"
+    "loadMore": "Загрузить еще",
+    "searchOnline": "Поиск в Интернете",
+    "shareThisEpisode": "Поделиться этим эпизодом",
+    "downloadEpisode": "Скачать эпизод",
+    "removeDownloadEpisode": "Удалить загрузку эпизода"
 }
